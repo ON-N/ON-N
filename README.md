@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ON-N
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Generating Model
